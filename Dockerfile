@@ -10,7 +10,7 @@ RUN pip3 install setuptools
 COPY . /install
 
 
-# Install: color-style-cycler
+# Install: colorstylecycler
 RUN cd /install/ || exit 1 && python setup.py install;
 
 

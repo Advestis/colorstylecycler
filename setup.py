@@ -64,7 +64,7 @@ version = get_version()
 
 if __name__ == "__main__":
     setup(
-        name="color-style-cycler",
+        name="colorstylecycler",
         version=version,
         author="Philippe COTTE",
         author_email="pcotte@advestis.com",
