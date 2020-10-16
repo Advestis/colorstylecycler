@@ -10,7 +10,7 @@ RUN pip3 install setuptools
 COPY . /install
 
 
-# Install: MailSender
+# Install: color-style-cycler
 RUN cd /install/ || exit 1 && python setup.py install;
 
 
