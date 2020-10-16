@@ -9,7 +9,7 @@ styles. By default, styles are supposed to be linestyles. This can be changed to
 
 ## Installation
 
-`pip install color-style-cycler`
+`pip install colorstylecycler`
 
 ## Usage
 
@@ -18,7 +18,7 @@ styles. By default, styles are supposed to be linestyles. This can be changed to
     
 # noinspection PyUnresolvedReferences
 from matplotlib import pyplot as plt
-from color-style-cycler import Cycler
+from colorstylecycler import Cycler
 number_of_curves = 15
 cy = Cycler(ncurves=number_of_curves)
 plt.rc('axes', prop_cycle=cy.cycler)
