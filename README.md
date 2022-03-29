@@ -13,7 +13,7 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-supported--tested-success)
 ![unix](https://img.shields.io/badge/Other%20Unix-supported--untested-yellow)
 
-![python](https://img.shields.io/pypi/pyversions/color-style-cycler)
+![python](https://img.shields.io/pypi/pyversions/colorstylecycler)
 
 
 ##### Contact
