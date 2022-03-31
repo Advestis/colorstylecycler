@@ -11,7 +11,7 @@ name = "colorstylecycler"
 author = "Advestis"
 author_email = "pythondev@advestis.com"
 description = "Can cycle through combination of colors and line or marker styles"
-url = f"https://github.com/Advestis/color-style-cycler"
+url = f"https://github.com/Advestis/colorstylecycler"
 
 
 def run_cmd(cmd):
