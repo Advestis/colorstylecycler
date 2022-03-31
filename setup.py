@@ -7,11 +7,11 @@ from setuptools import find_packages, setup
 
 workdir = Path(__file__).parent
 
-name = "ruleskit"
-author = "P.Cotte & V.Margot"
+name = "colorstylecycler"
+author = "Advestis"
 author_email = "pythondev@advestis.com"
-description = "Generic rule package for rule-based algorithms"
-url = f"https://github.com/Advestis/ruleskit"
+description = "Can cycle through combination of colors and line or marker styles"
+url = f"https://github.com/Advestis/color-style-cycler"
 
 
 def run_cmd(cmd):
