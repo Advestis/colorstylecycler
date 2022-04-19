@@ -1,12 +1,13 @@
-[![doc](https://img.shields.io/badge/-Documentation-blue)](https://advestis.github.io/color-style-cycler)
+[![doc](https://img.shields.io/badge/-Documentation-blue)](https://advestis.github.io/colorstylecycler)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 #### Status
-![push](https://github.com/Advestis/color-style-cycler/actions/workflows/push.yml/badge.svg)
+[![push-pypi](https://github.com/Advestis/colorstylecycler/actions/workflows/push-pypi.yml/badge.svg)](https://github.com/Advestis/colorstylecycler/actions/workflows/push-pypi.yml)
+[![push-doc](https://github.com/Advestis/colorstylecycler/actions/workflows/push-doc.yml/badge.svg)](https://github.com/Advestis/colorstylecycler/actions/workflows/push-doc.yml)
 
 ![maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![issues](https://img.shields.io/github/issues/Advestis/color-style-cycler.svg)
-![pr](https://img.shields.io/github/issues-pr/Advestis/color-style-cycler.svg)
+![issues](https://img.shields.io/github/issues/Advestis/colorstylecycler.svg)
+![pr](https://img.shields.io/github/issues-pr/Advestis/colorstylecycler.svg)
 
 
 #### Compatibilities
